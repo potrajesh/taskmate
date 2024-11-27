@@ -1,0 +1,13 @@
+{
+    "posts": [
+      { "id": "1", "name": "a title", "stock": 100 },
+      { "id": "2", "name": "another title", "stock": 200 }
+    ],
+    "comments": [
+      { "id": "1", "name": "a comment about post 1", "stock": "1" },
+      { "id": "2", "name": "another comment about post 1", "stock": "1" }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
